@@ -1,2 +1,6 @@
-Hola, soy Nahuel. Actualmente estoy aprendiendo Node.Js para poder especializarme en backend. Me gustaría colaborar en proyectos desafiantes
-que me permitan crecer en mis conocimientos y aptitudes. Puedes escribirme a nahuelmedia@hotmail.com.
+ Hola, soy Nahuel! 
+ Como desarrollador backend con 5 meses de experiencia profesional, he sido parte de proyectos de alto impacto en el ámbito tecnológico. Entre ellos, destaco mi participación en el desarrollo de una aplicación de chat utilizando tecnologías como Node.js y Socket.IO. Como miembro de un equipo de 5 desarrolladores, implementé características importantes como el servicio de mensajería a través de salas de chat. El éxito de esta aplicación, con más de 6 mil usuarios activos, refleja mi capacidad para abordar desafíos técnicos y entregar soluciones efectivas en un entorno colaborativo. 
+
+ En cuanto a mi background académico, me titulé como técnico superior en programación, gracias a lo cual aprendí a diseñar y desarrollar soluciones de software a través de metodologías ágiles. Durante mi formación, tuve la oportunidad de trabajar en diversos proyectos que me permitieron aplicar mis conocimientos en la práctica y desarrollar habilidades clave como el trabajo en equipo, la resolución de problemas y la creatividad. 
+
+ A través de mi experiencia profesional, he demostrado ser un colaborador eficaz en entornos de trabajo colaborativos, capaz de abordar y resolver problemas complejos en plazos ajustados.
