@@ -1,16 +1,14 @@
- Hola, soy Nahuel! 
-Como desarrollador backend especializado en Node.js, ayudo a las empresas de tecnología a lograr un rendimiento excepcional en sus aplicaciones web. Con mi experiencia en Node.js y otras tecnologías relacionadas, puedo desarrollar aplicaciones web altamente escalables y capaces de manejar grandes volúmenes de tráfico de usuarios.
+### ¡Hi!, I'm Nahuel Medina👋
 
-Al trabajar conmigo, su empresa puede lograr estos resultados medibles:
+!['JS'](https://e1.pxfuel.com/desktop-wallpaper/847/151/desktop-wallpaper-fondos-de-pantalla-de-programacion-y-desarrollo-web-reactjs.jpg)
 
-Reducir el tiempo de desarrollo de aplicaciones y acelerar el tiempo de comercialización.
+I am a backend developer specialized in Node.js, currently in Argentina 🇦🇷.
 
-Mejorar la eficiencia y la productividad de su equipo de desarrollo utilizando las mejores prácticas de Node.js.
+I help technology companies achieve exceptional performance in their web applications. With my experience in Node.js and other related technologies, I am able to develop web applications that are highly scalable and capable of handling large volumes of user traffic.
 
-Implementar un diseño de arquitectura sólido que permita que su aplicación escale de manera efectiva a medida que crece su base de usuarios.
+Regarding my academic background, I graduated as a senior programming technician, thanks to which I learned to design and develop software solutions through agile methodologies. During my training, I had the opportunity to work on various projects that allowed me to apply my knowledge in practice and develop key skills such as teamwork, problem-solving, and creativity. 
 
-Mejorar la velocidad de carga de su sitio web, lo que puede resultar en una mejor experiencia de usuario y mayores tasas de conversión.
+## Tech Stack 👨‍💻
+- Node.js | Express.js | JavaScript | TypeScript | MongoDB | PostgreSQL | HTML5 | CCS3 | Sequelize | Mongoose
 
-En cuanto a mi background académico, me titulé como técnico superior en programación, gracias a lo cual aprendí a diseñar y desarrollar soluciones de software a través de metodologías ágiles. Durante mi formación, tuve la oportunidad de trabajar en diversos proyectos que me permitieron aplicar mis conocimientos en la práctica y desarrollar habilidades clave como el trabajo en equipo, la resolución de problemas y la creatividad. 
 
-A través de mi experiencia profesional, he demostrado ser un colaborador eficaz en entornos de trabajo colaborativos, capaz de abordar y resolver problemas complejos en plazos ajustados.
