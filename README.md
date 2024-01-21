@@ -11,4 +11,6 @@ Regarding my academic background, I graduated as a programming technician (Assoc
 ## Tech Stack 👨‍💻
 - Node.js | Express.js | JavaScript | TypeScript | MongoDB | PostgreSQL | HTML5 | CCS3 | Sequelize | Mongoose
 
+<a href="https://app.daily.dev/nahuel98"><img src="https://api.daily.dev/devcards/c7a691003375486eb00cbc58ec300e52.png?r=h8u" width="400" alt="Nahuel Medina's Dev Card"/></a>
+
 
