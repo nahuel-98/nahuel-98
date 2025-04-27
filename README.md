@@ -1,7 +1,5 @@
 ### ¡Hi!, I'm Nahuel Medina👋
 
-!['JS'](https://e1.pxfuel.com/desktop-wallpaper/847/151/desktop-wallpaper-fondos-de-pantalla-de-programacion-y-desarrollo-web-reactjs.jpg)
-
 I am a backend developer specialized in Node.js, currently in Argentina 🇦🇷.
 
 I help technology companies achieve exceptional performance in their web applications. With my experience in Node.js and other related technologies, I am able to develop web applications that are highly scalable and capable of handling large volumes of user traffic.
